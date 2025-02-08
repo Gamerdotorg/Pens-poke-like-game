@@ -1,0 +1,9 @@
+Breadcrumbs 'Parallel'
+ - UEDPIE_1_42IV2270D7O1N2V5CRXT1TKXH.PointLight
+ - UnbatchedLights
+ - DirectLighting
+ - Lights
+ - RenderDeferredLighting
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 771218
