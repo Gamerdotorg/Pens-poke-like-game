@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MultiPoke.cpp.obj": [
+			"MultiPoke.cpp.obj"
+		]
+	}
+}

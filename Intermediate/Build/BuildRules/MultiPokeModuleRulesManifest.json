@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPoke.Build.cs",
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPoke.Target.cs",
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPokeClient.Target.cs",
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPokeEditor.Target.cs",
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPokeServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dylzm\\documents\\unreal projects\\multipoke 5.5\\intermediate\\build\\win64\\x64\\unrealgame\\development\\multipoke\\module.multipoke.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dylzm\\documents\\unreal projects\\multipoke 5.5\\intermediate\\build\\win64\\x64\\multipoke\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dylzm\\documents\\unreal projects\\multipoke 5.5\\intermediate\\build\\win64\\x64\\unrealgame\\development\\multipoke\\definitions.multipoke.h",
+            "c:\\users\\dylzm\\documents\\unreal projects\\multipoke 5.5\\intermediate\\source\\multipoke.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
