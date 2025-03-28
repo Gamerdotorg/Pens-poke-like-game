@@ -1,0 +1,71 @@
+[+] Containers:
+ |- [+] Container: /Game/World/Battle_Scene/Level_Battle_scene_base
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:125028F54C1D7C083E3D889BC159DB1D BaseClass:/Game/World/Battle_Scene/BP_Npc_Battle_actor.BP_Npc_Battle_actor_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Npc_Battle_actor_C_1 Label:BP_Npc_Battle_actor SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1294.000 Y=-348.000 Z=104.000), Max=(X=1454.000 Y=-74.000 Z=264.000) RuntimeBounds:IsValid=true, Min=(X=1339.000 Y=-348.000 Z=139.000), Max=(X=1409.000 Y=-280.000 Z=234.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:1EEA2491484BA825879CA28907E34711 BaseClass:/Game/World/Battle_Scene/BP_EnemySpawn.BP_EnemySpawn_C NativeClass:/Script/Engine.Actor Name:BP_EnemySpawn_C_1 Label:BP_EnemySpawn SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1166.000 Y=-440.000 Z=18.000), Max=(X=1422.000 Y=-72.000 Z=274.000) RuntimeBounds:IsValid=true, Min=(X=1166.000 Y=-440.000 Z=18.000), Max=(X=1422.000 Y=-72.000 Z=274.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:2078A50C4D6F2E7171A874BDC50A328F NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:212E3AF94182F1F05E8DF7A8AB67204B BaseClass:/Game/World/Battle_Scene/BP_PlayerPokeSpawn.BP_PlayerPokeSpawn_C NativeClass:/Script/Engine.Actor Name:BP_PlayerPokeSpawn_C_1 Label:BP_PlayerPokeSpawn SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1051.000 Y=-297.000 Z=-50.000), Max=(X=1307.000 Y=71.000 Z=206.000) RuntimeBounds:IsValid=true, Min=(X=1051.000 Y=-297.000 Z=-50.000), Max=(X=1307.000 Y=71.000 Z=206.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:678B4AE04B278C5539D01CBEB7BCB900 NativeClass:/Script/Engine.CameraActor Name:CameraActor_4 Label:Player overview SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=230.000 Y=-1062.000 Z=-904.000), Max=(X=2250.000 Y=958.000 Z=1116.000) RuntimeBounds:IsValid=true, Min=(X=1240.000 Y=-52.000 Z=106.000), Max=(X=1240.000 Y=-52.000 Z=106.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:873214BA4FD20B68DD5A2B9DD223F6D5 BaseClass:/Game/World/Battle_Scene/BP_Player_Battle_Actor.BP_Player_Battle_Actor_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Player_Battle_Actor_C_1 Label:BP_Player_Battle_Actor SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1008.000 Y=-316.000 Z=-24.000), Max=(X=1168.000 Y=-42.000 Z=136.000) RuntimeBounds:IsValid=true, Min=(X=1053.000 Y=-316.000 Z=11.000), Max=(X=1123.000 Y=-248.000 Z=106.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:8EAA59554071D3E9104756ACADC7D904 NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_2 Label:Background_tileset_battle SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=640.000 Y=-420.000 Z=-64.000), Max=(X=2176.000 Y=-220.000 Z=448.000) RuntimeBounds:IsValid=true, Min=(X=640.000 Y=-420.000 Z=-64.000), Max=(X=2176.000 Y=-220.000 Z=448.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:D1CD06CC42D07E12AA2BA68224FC4853 NativeClass:/Script/Engine.CameraActor Name:CameraActor_1 Label:Enemy camera SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=230.000 Y=-1062.000 Z=-904.000), Max=(X=2250.000 Y=958.000 Z=1116.000) RuntimeBounds:IsValid=true, Min=(X=1240.000 Y=-52.000 Z=106.000), Max=(X=1240.000 Y=-52.000 Z=106.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:D4AB2400450D85724E2F6F8634F025DD NativeClass:/Script/Engine.PointLight Name:PointLight_0 Label:PointLight SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2074.401 Y=-2970.401 Z=-1754.401), Max=(X=3994.401 Y=3098.401 Z=4314.401) RuntimeBounds:IsValid=true, Min=(X=-2074.401 Y=-2970.401 Z=-1754.401), Max=(X=3994.401 Y=3098.401 Z=4314.401) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:F6ECA9AF4C2EB02344C929B9B23D187C NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:StaticMeshActor SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1440.000 Y=-224.000 Z=16.000), Max=(X=1440.000 Y=-224.000 Z=16.000) RuntimeBounds:IsValid=true, Min=(X=1440.000 Y=-224.000 Z=16.000), Max=(X=1440.000 Y=-224.000 Z=16.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:125028F54C1D7C083E3D889BC159DB1D BaseClass:/Game/World/Battle_Scene/BP_Npc_Battle_actor.BP_Npc_Battle_actor_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Npc_Battle_actor_C_1 Label:BP_Npc_Battle_actor SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1294.000 Y=-348.000 Z=104.000), Max=(X=1454.000 Y=-74.000 Z=264.000) RuntimeBounds:IsValid=true, Min=(X=1339.000 Y=-348.000 Z=139.000), Max=(X=1409.000 Y=-280.000 Z=234.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1EEA2491484BA825879CA28907E34711 BaseClass:/Game/World/Battle_Scene/BP_EnemySpawn.BP_EnemySpawn_C NativeClass:/Script/Engine.Actor Name:BP_EnemySpawn_C_1 Label:BP_EnemySpawn SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1166.000 Y=-440.000 Z=18.000), Max=(X=1422.000 Y=-72.000 Z=274.000) RuntimeBounds:IsValid=true, Min=(X=1166.000 Y=-440.000 Z=18.000), Max=(X=1422.000 Y=-72.000 Z=274.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:2078A50C4D6F2E7171A874BDC50A328F NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:212E3AF94182F1F05E8DF7A8AB67204B BaseClass:/Game/World/Battle_Scene/BP_PlayerPokeSpawn.BP_PlayerPokeSpawn_C NativeClass:/Script/Engine.Actor Name:BP_PlayerPokeSpawn_C_1 Label:BP_PlayerPokeSpawn SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1051.000 Y=-297.000 Z=-50.000), Max=(X=1307.000 Y=71.000 Z=206.000) RuntimeBounds:IsValid=true, Min=(X=1051.000 Y=-297.000 Z=-50.000), Max=(X=1307.000 Y=71.000 Z=206.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:678B4AE04B278C5539D01CBEB7BCB900 NativeClass:/Script/Engine.CameraActor Name:CameraActor_4 Label:Player overview SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=230.000 Y=-1062.000 Z=-904.000), Max=(X=2250.000 Y=958.000 Z=1116.000) RuntimeBounds:IsValid=true, Min=(X=1240.000 Y=-52.000 Z=106.000), Max=(X=1240.000 Y=-52.000 Z=106.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:873214BA4FD20B68DD5A2B9DD223F6D5 BaseClass:/Game/World/Battle_Scene/BP_Player_Battle_Actor.BP_Player_Battle_Actor_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Player_Battle_Actor_C_1 Label:BP_Player_Battle_Actor SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1008.000 Y=-316.000 Z=-24.000), Max=(X=1168.000 Y=-42.000 Z=136.000) RuntimeBounds:IsValid=true, Min=(X=1053.000 Y=-316.000 Z=11.000), Max=(X=1123.000 Y=-248.000 Z=106.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:8EAA59554071D3E9104756ACADC7D904 NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_2 Label:Background_tileset_battle SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=640.000 Y=-420.000 Z=-64.000), Max=(X=2176.000 Y=-220.000 Z=448.000) RuntimeBounds:IsValid=true, Min=(X=640.000 Y=-420.000 Z=-64.000), Max=(X=2176.000 Y=-220.000 Z=448.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:D1CD06CC42D07E12AA2BA68224FC4853 NativeClass:/Script/Engine.CameraActor Name:CameraActor_1 Label:Enemy camera SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=230.000 Y=-1062.000 Z=-904.000), Max=(X=2250.000 Y=958.000 Z=1116.000) RuntimeBounds:IsValid=true, Min=(X=1240.000 Y=-52.000 Z=106.000), Max=(X=1240.000 Y=-52.000 Z=106.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:D4AB2400450D85724E2F6F8634F025DD NativeClass:/Script/Engine.PointLight Name:PointLight_0 Label:PointLight SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2074.401 Y=-2970.401 Z=-1754.401), Max=(X=3994.401 Y=3098.401 Z=4314.401) RuntimeBounds:IsValid=true, Min=(X=-2074.401 Y=-2970.401 Z=-1754.401), Max=(X=3994.401 Y=3098.401 Z=4314.401) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:F6ECA9AF4C2EB02344C929B9B23D187C NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:StaticMeshActor SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1440.000 Y=-224.000 Z=16.000), Max=(X=1440.000 Y=-224.000 Z=16.000) RuntimeBounds:IsValid=true, Min=(X=1440.000 Y=-224.000 Z=16.000), Max=(X=1440.000 Y=-224.000 Z=16.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/World/Battle_Scene/Level_Battle_scene_base
+----------------------------------------------------------------------------------------------------------------
+Level_Battle_scene_base - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Level_Battle_scene_base Persistent Level
+ |- Always loaded Actor Count: 10 
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.BP_EnemySpawn_C_1
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/7/Y3/7KEDVIV3T1OTACYLMD2ZTM
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.BP_Npc_Battle_actor_C_1
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/4/CT/SX29ONQR0FJA4V7BNCGFZU
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.BP_Player_Battle_Actor_C_1
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/9/8B/9Y9ECIH716E383SAEO6994
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.BP_PlayerPokeSpawn_C_1
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/C/06/7P81VRDK3Q4ES3LHF6G3NN
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.CameraActor_1
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/C/AW/32Q8BNN6MBBZXU19NADVGJ
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.CameraActor_4
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/2/M3/LO6OTC5HYOZD1WZ7WKSQZT
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.PaperTileMapActor_2
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/C/MX/DELTMB4WYB8ZEH4WBSUZSV
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.PointLight_0
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/C/HQ/L39YFAOY6CQFBJ1ME9IANO
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/B/QD/AGH0L2HQ2YVJUBKMPCAWI6
+ |- Actor Path: /Game/World/Battle_Scene/Level_Battle_scene_base.Level_Battle_scene_base:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/World/Battle_Scene/Level_Battle_scene_base/6/IV/14GU30VGWKFK9AV97X02BX
+
+----------------------------------------------------------------------------------------------------------------
+Level_Battle_scene_base - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+

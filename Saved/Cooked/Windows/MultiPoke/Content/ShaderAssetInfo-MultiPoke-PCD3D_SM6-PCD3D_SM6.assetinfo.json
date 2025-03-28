@@ -171,12 +171,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0A13ED3D04621FF0BA87151DF100B9E283025BF7",
-			"Assets": [
-				"/Paper2D/TranslucentLitSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "B8BE25432FB7F3F68A708FA8C99B947FD51B71FC",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"

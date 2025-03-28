@@ -1,0 +1,2 @@
+/Game/charecter/BP_top_down_char.Default__BP_top_down_char_C
+/Game/charecter/BP_top_down_char.BP_top_down_char_C

@@ -1,0 +1,2 @@
+/Game/menus/Name_and_Password/W_Register.Default__W_Register_C
+/Game/menus/Name_and_Password/W_Register.W_Register_C

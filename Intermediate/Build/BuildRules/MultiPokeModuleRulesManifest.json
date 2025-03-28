@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Plugins\\RefreshAllNodes\\Source\\RefreshAllNodes\\RefreshAllNodes.Build.cs",
 		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPoke.Build.cs",
 		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPoke.Target.cs",
 		"C:\\Users\\dylzm\\Documents\\Unreal Projects\\MultiPoke 5.5\\Intermediate\\Source\\MultiPokeClient.Target.cs",
