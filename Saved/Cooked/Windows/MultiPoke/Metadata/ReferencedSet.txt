@@ -755,6 +755,8 @@
 /Game/World/Battle_Scene/BPI_Camera
 /Game/World/Battle_Scene/E_Battle_Choice
 /Game/World/Battle_Scene/E_Camera_Switch
+/Game/World/Battle_Scene/Enum_challanger_type
+/Game/World/Battle_Scene/Struct_better_challange_details
 /Game/World/BP_GameInstance
 /Game/World/Enum_game_mode
 /Game/World/GM_World

@@ -19,3 +19,6 @@ Intermediate/Build/Win64/x64/MultiPoke/Shipping/Core/SharedPCH.Core.Project.ValA
 Saved/StagedBuilds/Windows/MultiPoke/Binaries/Win64/MultiPoke-Win64-Shipping.exe
 Saved/StagedBuilds/Windows/MultiPoke/Content/Paks/MultiPoke-Windows.ucas
 Saved/StagedBuilds/Windows/MultiPoke/Content/Paks/MultiPoke-Windows.ucas
+Saved/Logs/MultiPoke.log
+*.log
+Saved/Logs/MultiPoke.log
